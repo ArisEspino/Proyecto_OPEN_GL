@@ -2,20 +2,21 @@
 <p>
 Museo de Dioses del olimpo
 </p>
-<ul>
-<li>Afrodita </li>
-<li>Zeus</li>
-<li>Hades</li>
-<li>Hestia</li>
-<li>Poseidon</li>
-<li>Demeter</li>
-<li>Hera</li>
-</ul>
+
+- Afrodita 
+- Zeus
+- Hades
+- Hestia
+- Poseidon
+- Demeter
+- Hera
+
 **Entre otros Dioses**
+
 ```
-print("Hola chicos")
+print("Hola mundo")
 ```
+
 <p>
 Creando primero README.md
 </p>
-
